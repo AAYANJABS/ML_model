@@ -1,0 +1,1 @@
+The paper validation code store the validation data of the research paper by     Islam M, Husain S, Mustafa J, Gu Y 'A Novel Machine Learning Prediction Model for Aerosol Transport in Upper 17-Generations of the Human Respiratory Tract'
